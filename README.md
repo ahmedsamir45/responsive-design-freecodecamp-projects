@@ -24,8 +24,8 @@ This portfolio showcases creative and functional projects built with HTML, CSS, 
 
 | Project | Preview | Links |
 |---------|---------|-------|
-| **🐧 Penguin Drawing** | ![Penguin](https://via.placeholder.com/100) | [Code](https://lnkd.in/et-BmkiQ) • [Demo](https://lnkd.in/eatrxCqy) |
-| **🎹 Painting Piano** | ![Piano](https://via.placeholder.com/100) | [Code](https://lnkd.in/e-sZWDiw) • [Demo](https://lnkd.in/eGdgdPTG) |
+| **🐧 Penguin Drawing** | | [Code](https://lnkd.in/et-BmkiQ) • [Demo](https://lnkd.in/eatrxCqy) |
+| **🎹 Painting Piano** | | [Code](https://lnkd.in/e-sZWDiw) • [Demo](https://lnkd.in/eGdgdPTG) |
 
 ## 📚 Documentation & Forms
 
